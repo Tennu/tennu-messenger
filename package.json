@@ -1,0 +1,20 @@
+{
+	"name": "tennu-messenger",
+	"preferGlobal": false,
+	"version": "0.1.0",
+	"author": "metalbot",
+	"description": "A module for tennu that leaves messages for nicknames",
+	"repository" : {
+		"type": "git",
+		"url": "https://github.com:metalbot/tennu-messenger.git"
+	},
+	"dependencies": {
+		"tennu": "0.7.2",
+		"moment": "2.5.0",
+		"lodash": "2.4.x"
+	},
+	"engines": {
+		"node": ">=0.10"
+	}
+
+}
